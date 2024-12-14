@@ -17,9 +17,9 @@ according to the paper, approximately 66–75% of the accuracy underpinning Horv
 2. Construct a stochastic analog (StocH clock) using DNAm dataset;  
 3. Quantify the stochastic component of Horvath’s clock in one of the sorted immune cell datasets.  
 
-**Data availability**: [GSE56581](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56581), [GSE56046](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56046)
-**Related papers**: https://www.nature.com/articles/s43587-024-00600-8
-**Responsible TAs**: Dmitrii Kriukov
+**Data availability**: [GSE56581](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56581), [GSE56046](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56046)  
+**Related papers**: https://www.nature.com/articles/s43587-024-00600-8  
+**Responsible TAs**: Dmitrii Kriukov  
 
 Team: Oksana Kotovskaya
 
