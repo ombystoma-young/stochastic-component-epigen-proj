@@ -11,7 +11,7 @@ Age-associated DNAm changes are observed in two phenomena – first, the evidenc
 Thus, two phenomena can be considered deterministic and stochastic components of quasi-stochastic epigenetic changes associated with age. 
 In this regard, understanding the contribution of stochastic component to the accuracy of linear models (clocks) prediction represents a fundamental interest. 
 ### Main hypothesis:  
-according to the paper, approximately 66–75% of the accuracy underpinning Horvath’s clock could be driven by a stochastic process.
+According to the paper, approximately 66–75% of the accuracy underpinning Horvath’s clock could be driven by a stochastic process.
 ### Goals:
 1. Reproduce the stochastic simulation for Horvath’s clock;  
 2. Construct a stochastic analog (StocH clock) using DNAm dataset;  
