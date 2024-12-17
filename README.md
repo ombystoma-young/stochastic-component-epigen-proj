@@ -1,4 +1,4 @@
-
+![alt text](pics/descr.png)  
 This repository contains code for the final project of Computational Biology of Aging course (cohort 2024).
 
 
